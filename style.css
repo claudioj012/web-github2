@@ -1,0 +1,176 @@
+.wrapper{
+	margin-top: 20px;
+	margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+	max-height: 700px;
+	max-width: 1262px;
+	text-decoration-style: none;
+
+}
+.colors{
+	display: inline-block;
+	max-width: 1200px;
+	max-height: 700px;
+	z-index: -100;
+
+}
+.primero {
+	max-width: 240px;
+	height: 700px;
+	float: left;
+	border-radius: 8px;
+
+
+}
+.segundo{
+	max-width: 240px;
+	height: 700px;
+	float: left;
+	border-radius: 8px;
+
+}
+.tercero{
+	max-width: 240px;
+	height: 700px;
+	float: left;
+	border-radius: 8px;
+
+}
+.cuarto{
+	max-width: 240px;
+	height: 700px;
+	float: left;
+	border-radius: 8px;
+
+}
+.quinto{
+	max-width: 240px;
+	height: 700px;
+	float: left;
+	border-radius: 8px;
+
+}
+.primero:hover {
+
+  background:#8995C6;
+  color:#494c46;
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+  box-shadow: inset 0 0 0 1px #8995C6;
+
+}
+.segundo:hover {
+
+  background:#8995C6;
+  color:#494c46;
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+  box-shadow: inset 0 0 0 1px #8995C6;
+
+
+}
+.tercero:hover {
+
+  background:#8995C6;
+  color:#494c46;
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+  box-shadow: inset 0 0 0 1px #8995C6;
+  position: relative;
+
+}
+.cuarto:hover {
+
+  background:#8995C6;
+  color:#494c46;
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+  box-shadow: inset 0 0 0 1px #8995C6;
+
+}
+.quinto:hover {
+
+  background:orange;
+  color:orange;
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+  box-shadow: inset 0 0 0 1px orange;
+
+}
+
+h2{
+	font-size: 25px;
+	margin-left: 45px;
+	font-family:'Expletus Sans', cursive;
+	text-shadow: 0.25px black;
+	stroke: 2px;
+	color:gray;
+	margin-top: none;
+
+}
+
+h2:hover{
+color:black;
+	
+
+}
+ 
+video{
+position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    
+    }
+
+  p{
+   justify-content: justify;
+   float: left;
+   
+  }
+.wrapper5{
+ 
+
+margin-left: 100px;
+margin-bottom: -200%;
+margin-top: -100px;
+}
+.char1{
+  float: left;
+}
+  .char2{
+    float: left;
+    padding: 5px;
+  }
+  .char3{
+    float: left;
+  }
+  .rr img :hover{
+    color:red;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
